@@ -3,7 +3,7 @@ package service
 import (
 	"context"
 	"errors"
-	model "golang-crud-sql/models"
+	"golang-crud-sql/model"
 )
 
 type CommentService interface {

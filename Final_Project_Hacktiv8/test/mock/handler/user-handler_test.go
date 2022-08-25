@@ -5,7 +5,7 @@ import (
 	mock_service "golang-crud-sql/test/mock/service"
 	"testing"
 
-	gomock "github.com/golang/mock/gomock"
+	"github.com/golang/mock/gomock"
 	"github.com/stretchr/testify/require"
 )
 
